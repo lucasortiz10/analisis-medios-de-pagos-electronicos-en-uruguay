@@ -1,0 +1,43 @@
+year;semester;payment_method;amount_million;transaction_count;source;average_amount
+2015;1;Debit Card ;$ 700;15.288.227;repspagos0615;$ 46
+2015;1;Credit Card;$ 2.368;46.883.811;repspagos0615;$ 51
+2015;2;Debit Card ;$ 868;20.384.705;repspagos1215;$ 43
+2015;2;Credit Card;$ 2.276;48.960.142;repspagos1215;$ 46
+2016;1;Debit Card ;$ 1.027;25.725.822;repspagos0616;$ 40
+2016;1;Credit Card;$ 2.280;51.914.186;repspagos0616;$ 44
+2016;2;Debit Card ;$ 1.402;33.668.927;repspagos1216;$ 42
+2016;2;Credit Card;$ 2.616;58.178.265;repspagos1216;$ 45
+2017;1;Debit Card ;$ 1.846;44.918.856;repspagos0617;$ 41
+2017;1;Credit Card;$ 2.893;63.095.504;repspagos0617;$ 46
+2017;2;Debit Card ;$ 2.260;59.897.232;repspagos1217;$ 38
+2017;2;Credit Card;$ 2.967;68.850.149;repspagos1217;$ 43
+2018;1;Debit Card ;$ 2.671;72.877.965;repspagos0618;$ 37
+2018;1;Credit Card;$ 3.140;73.872.965;repspagos0618;$ 43
+2018;2;Debit Card ;$ 2.793;85.054.871;repspagos1218;$ 33
+2018;2;Credit Card;$ 2.961;79.268.415;repspagos1218;$ 37
+2019;1;Debit Card ;$ 3.056;96.937.463;repspagos0619;$ 32
+2019;1;Credit Card;$ 3.002;81.719.669;repspagos0619;$ 37
+2019;2;Debit Card ;$ 3.280;113.088.382;repspagos1219;$ 29
+2019;2;Credit Card;$ 2.917;87.533.383;repspagos1219 ;$ 33
+2020;1;Debit Card ;$ 3.005;106.983.802;repspagos0620;$ 28
+2020;1;Credit Card;$ 2.314;75.944.043;repspagos0620;$ 30
+2020;2;Debit Card ;$ 3.303;121.352.444;repspagos1220;$ 27
+2020;2;Credit Card;$ 2.415;83.826.226;repspagos1220;$ 29
+2021;1;Debit Card ;$ 3.705;123.473.174;repspagos0621;$ 30
+2021;1;Credit Card;$ 2.697;84.274.255;repspagos0621;$ 32
+2021;2;Debit Card ;$ 4.295;145.630.974;repspagos1221;$ 29
+2021;2;Credit Card;$ 3.364;100.423.253;repspagos1221;$ 33
+2022;1;Debit Card ;$ 4.222;151.377.490;repspagos0622;$ 28
+2022;1;Credit Card;$ 3.747;108.446.210;repspagos0622;$ 35
+2022;2;Debit Card ;$ 4.651;170.949.427;repspagos1222;$ 27
+2022;2;Credit Card;$ 4.127;122.344.348;repspagos1222;$ 34
+2023;1;Debit Card ;$ 4.903;182.635.887;repspagos0623;$ 27
+2023;1;Credit Card;$ 4.462;133.696.550;repspagos0623;$ 33
+2023;2;Debit Card ;$ 5.842;244.182.191;repspagos1223;$ 24
+2023;2;Credit Card;$ 4.313;119.210.954;repspagos1223;$ 36
+2024;1;Debit Card ;$ 6.003;239.125.637;repspagos0624;$ 25
+2024;1;Credit Card;$ 4.052;105.971.550;repspagos0624;$ 38
+2024;2;Debit Card ;$ 6.436;256.967.949;repspagos1224;$ 25
+2024;2;Credit Card;$ 3.969;92.631.895;repspagos1224;$ 43
+2025;1;Debit Card ;$ 6.749;268.024.971;repspagos0625;$ 25
+2025;1;Credit Card;$ 4.314;96.841.365;repspagos0625;$ 45
